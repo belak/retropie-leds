@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "product": "ultimate",
+  "board id" : 1,
+  "fade rate": 0,
+  "intensity" : [
+  {"led":  0, "intensity" : 100 },
+  {"led":  1, "intensity" : 100 },
+  {"led":  2, "intensity" : 0 },
+
+  {"led":  3, "intensity" : 100 },
+  {"led":  4, "intensity" : 0 },
+  {"led":  5, "intensity" : 0 },
+
+  {"led":  6, "intensity" : 50 },
+  {"led":  7, "intensity" : 50 },
+  {"led":  8, "intensity" : 50 },
+
+  {"led":  9, "intensity" : 50 },
+  {"led": 10, "intensity" : 50 },
+  {"led": 11, "intensity" : 50 },
+
+
+  {"led": 27, "intensity" : 100 },
+  {"led": 28, "intensity" : 100 },
+  {"led": 29, "intensity" : 100 },
+
+  {"led": 30, "intensity" : 100 },
+  {"led": 31, "intensity" : 100 },
+  {"led": 32, "intensity" : 100 }
+  ]
+}
